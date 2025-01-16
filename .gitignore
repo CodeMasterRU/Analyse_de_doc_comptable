@@ -1,0 +1,7 @@
+# Игнорировать папку build
+build/
+
+# Игнорировать конкретный файл
+secrets.txt
+main.py
+main.spec
