@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a pour objectif d'analyser des documents comptables de manière automatisée en utilisant des techniques avancées de traitement de données. Il permet l'extraction, la transformation et la visualisation des informations financières issues de documents variés.
+Ce projet a pour objectif d'analyser des documents comptables de manière automatisée en utilisant des techniques avancées de traitement de données. Il permet l'extraction et la visualisation des informations financières issues de documents variés.
 
 # Utilisation
 
